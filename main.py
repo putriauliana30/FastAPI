@@ -10,7 +10,6 @@ import numpy as np
 
 from typing import Optional
 from fastapi import FastAPI, File, UploadFile
-import json
 from fastapi.responses import HTMLResponse
 
 
