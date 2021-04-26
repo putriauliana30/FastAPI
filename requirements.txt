@@ -3,5 +3,4 @@ numpy
 fastapi
 uvicorn[standard]
 typing
-request
 python-multipart
