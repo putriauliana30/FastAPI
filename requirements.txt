@@ -2,7 +2,6 @@ pandas
 numpy
 fastapi
 uvicorn[standard]
-json 
 typing
 request
 python-multipart
