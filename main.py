@@ -29,8 +29,5 @@ def assignment_putri():
     return result
     
     
-if __name__== "__main__":
-    uvicorn.run(app,host="0.0.0.0",port=int(os.environ.get('PORT',5000)), log_level="info")
-    
 # In this case, it can be seen that the order of the number of deaths in the province of Jakarta is based on the name of the district, the name of the province and the gender in 2017
 # Displayed in 10 order from highest to lowest number of deaths
